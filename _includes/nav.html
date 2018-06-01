@@ -7,7 +7,7 @@
     </div>
     <div>
       <span class="mdl-layout-title">
-        Proposal Guide
+        {{page.title}}
       </span>
     </div>
     <!-- <div class="mdl-layout-spacer"></div> -->
@@ -19,7 +19,7 @@
     <img src="images/stsi_corner_logo_200x61.png" width="150" height="46"><br>
   </div>
   <div class="mdl-layout-title">
-    <span class="wp-title">Proposal Guide</span>
+    <span class="wp-title">{{page.title}}</span>
   </div>
   <nav class="mdl-navigation">
   {% for section in site.sections %}
@@ -27,5 +27,5 @@
   {% endfor %}
   </nav>
   <div class="mdl-layout-spacer"></div>
-  
+
 </div>
