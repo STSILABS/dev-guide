@@ -1,7 +1,7 @@
-# proposal-guide
-STSI guide to writing, editing, managing proposals
+# dev-guide
+STSI guide to building apps
 
-In pretty form at: [stsilabs.github.io/proposal-guide](http://stsilabs.github.io/proposal-guide/) 
+In pretty form at: [stsilabs.github.io/dev-guide](http://stsilabs.github.io/dev-guide/)
 
 ## Editing
 

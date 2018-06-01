@@ -7,5 +7,4 @@ We write code to test our code. It sounds like double-work but saves a ton of ti
 ### Key Concepts
 
 
-
 ### The STSI Way
