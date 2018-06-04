@@ -40,3 +40,8 @@ When you want to make a set of changes, you create a branch. We follow the [gitf
  * **Git Flow**: We use the [gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) workflow approach to branching/merging/pull requests whenever possible.
  * **GitHub**: We use [GitHub](https://github.com/STSILABS/) by default for any repos owned by STSI, but often work with client-provided repositories.
  * **DotEnv**: By default, we use a "dotenv" approach. The libraries differ by language, but all use a local file (e.g. `/.env`) that is also in the `.gitignore`. A `/.env.example` file shows developers what values need to be filled in. In development envirionments, the contents of the file are loaded as environment variables. In production, the same environment variables are set via other means.
+ 
+ ### Learning Checklist
+ 
+  * Read Git docs [Getting started](https://git-scm.com/book/en/v1/Getting-Started) 
+  * Practice using proper hygiene on real or for-fun projects
