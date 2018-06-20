@@ -13,3 +13,6 @@ To work with your code you need several tools on your workstation (unless you ar
 ### The STSI Way
 
 Local developer tools are generally a matter of preference. There is no standard.
+
+ * Some tools have configuration or data files (e.g. `.idea`). If so, make sure these are in the `.gitignore` file to avoid cluttering the repo with those files.
+
